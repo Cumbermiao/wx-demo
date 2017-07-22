@@ -1,12 +1,14 @@
 {
-  "pages":[
+  "pages": [
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/video",
+    "pages/swiperandmap/swiperandmap"
   ],
-  "window":{
-    "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#ddd",
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#345678",
     "navigationBarTitleText": "Cumber",
-    "navigationBarTextStyle":"black"
+    "navigationBarTextStyle": "#FFF"
   }
 }
